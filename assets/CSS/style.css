@@ -1,0 +1,10 @@
+body {
+    background-image:url("../Images/arunas-naujokas-739820-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size:960px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
