@@ -8,3 +8,6 @@ body {
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
 }
+.nav-link {
+    float: left;
+}
